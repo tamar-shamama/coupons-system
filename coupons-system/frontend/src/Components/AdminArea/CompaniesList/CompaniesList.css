@@ -1,0 +1,59 @@
+/* div.CompaniesList {
+    text-align: right;
+    width: 100%;
+    font-size: 24px;
+    margin-right: 20px;
+}
+
+.CompaniesList img {
+    height: 25px;
+}
+
+.CompaniesList > span {
+    display: inline-block;
+    width: 30%;
+    font-weight: bold;
+}
+
+.CompaniesList span.space {
+    width: 2%;
+}
+
+.CompaniesList span#mispar {
+    width: 17%;
+}
+
+.CompaniesList > h3 {
+    text-decoration: underline;
+    color: darkred;
+    display: inline-block;
+} */
+
+
+
+
+h3 {
+    display: inline-block;
+}
+
+
+.CompaniesList a#add {
+    margin-right: 100px;
+    padding: 5px;
+    text-decoration: none;
+    background-color: red;
+    color: black;
+    font-size: 23px;
+    font-weight: 100;
+    border: 2px solid black;
+    box-shadow: 1px 1px;
+    display: inline-block;
+}
+
+
+.CompaniesList a#add:hover {
+    box-shadow: 0px 0px;
+    background-color: rgb(162, 13, 13);
+}
+
+

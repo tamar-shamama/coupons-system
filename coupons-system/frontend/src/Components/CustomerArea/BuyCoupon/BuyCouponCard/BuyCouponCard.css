@@ -1,0 +1,15 @@
+div.BuyCouponCard {
+  
+    margin-bottom: 5px;
+    background-color: hsla(0, 0%, 50%, 0.6);
+}
+
+
+.BuyCouponCard p {
+    margin: 0;
+    padding: 0;
+    color: rgb(143, 15, 15);
+    font-weight: bolder;
+    font-style: italic;
+}
+

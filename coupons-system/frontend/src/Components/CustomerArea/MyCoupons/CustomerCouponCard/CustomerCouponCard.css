@@ -1,0 +1,61 @@
+
+div.CustomerCouponCard {
+    /* text-align: right;
+    width: 1050px;
+    font-size: 20px;
+    margin: 5px; */
+    background-color: hsla(0, 0%, 50%, 0.4);
+    margin-bottom: 5px;
+}
+
+/* 
+
+.CustomerCouponCard > div {
+    display: inline-block;
+    text-align: center;
+}
+
+
+.CustomerCouponCard div#mispar {
+    width: 50px;
+}
+
+.CustomerCouponCard div#cat {
+    width: 70px;
+}
+
+.CustomerCouponCard div#shem {
+    width: 70px;
+}
+
+.CustomerCouponCard div#teur {
+    width: 100px;
+}
+
+.CustomerCouponCard div.kamut {
+    width: 50px;
+}
+
+.CustomerCouponCard div.taarich {
+    width: 120px;
+}
+
+.CustomerCouponCard div#comp {
+    width: 70px;
+}
+
+.CustomerCouponCard div.space {
+    width: 30px;
+}
+
+.CustomerCouponCard div#kaftor {
+    width: 50px;
+    margin: 5px;
+}
+
+
+
+.CustomerCouponCard a {
+    text-decoration: none;
+    margin-top: 30px;
+} */

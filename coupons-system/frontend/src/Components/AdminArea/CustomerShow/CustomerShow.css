@@ -1,0 +1,11 @@
+
+
+.CustomerShow span.peula > a {
+    text-decoration: none;
+    display: inline-block;
+    width: 150px;
+}
+
+.CustomerShow img {
+    height: 40px;
+}

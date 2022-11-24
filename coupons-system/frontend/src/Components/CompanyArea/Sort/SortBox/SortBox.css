@@ -1,0 +1,11 @@
+
+.SortBox button {
+    margin: 5px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.SortBox > div.hipus {
+    width: 500px;
+}
+

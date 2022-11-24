@@ -1,0 +1,66 @@
+
+div.CustomerAdd {
+    width: auto;
+    margin: 50px 150px 50px 50px;
+    font-size: 35px;
+    text-align: right;
+}
+
+.CustomerAdd h3 {
+    margin: 0 0 30px 0;
+}
+
+
+.CustomerAdd label {
+	display: inline-block;
+    width: 250px;
+}
+
+.CustomerAdd input {
+    width: 350px;
+    height: 35px;
+    padding: 1px 2px 1px 2px;
+    border: 0;
+    margin-bottom: 10px;
+    font-size: 25px;
+    box-sizing: border-box;
+}
+
+.CustomerAdd button {
+    height: 50px;
+    width: 160px;
+    margin-top: 25px;
+    margin-right: 440px;
+    font-size: 35px;
+}
+
+.CustomerAdd button:hover {
+    background-color: rgb(225, 22, 22);
+    color: white;
+}
+
+.CustomerAdd  a {
+    text-decoration: none;
+    color: rgb(80, 78, 78);
+    font-size: 35px;
+    text-align: right;
+  }
+.CustomerAdd  a:hover {
+    color: darkblue;
+}
+
+.CustomerAdd > form {
+    background-color: rgba(128, 128, 128, 0.572);
+    text-align: right;
+    padding: 80px;
+}
+
+.CustomerAdd span.valid {
+    color: red;
+}
+
+.CustomerAdd p {
+    color: red;
+    font-size: 25px;
+    margin: 0;
+}

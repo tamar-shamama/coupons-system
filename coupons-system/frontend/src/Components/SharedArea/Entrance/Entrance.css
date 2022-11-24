@@ -1,0 +1,25 @@
+.Entrance {
+
+    margin: 40px 40px 400px 40px;
+    text-align: right;
+    font-size: 30px;
+}
+
+.Entrance  a {
+    color: red;
+    font-weight: bold;
+}
+
+.Entrance > a#home {
+    text-decoration: none;
+    color: rgb(80, 78, 78);
+    font-size: 30px;
+  }
+
+.Entrance > a#home:hover {
+   color: darkblue;
+}
+
+.Entrance p {
+    width: 80%;
+}

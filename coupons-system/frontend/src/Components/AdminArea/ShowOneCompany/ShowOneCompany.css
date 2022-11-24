@@ -1,0 +1,10 @@
+
+.ShowOneCompany span.peula > a {
+    text-decoration: none;
+    display: inline-block;
+    width: 150px;
+}
+
+.ShowOneCompany img {
+    height: 40px;
+}

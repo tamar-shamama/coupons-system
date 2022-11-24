@@ -1,0 +1,28 @@
+.Menu {
+
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    
+    text-align: right;
+    margin-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 20px;
+}
+
+
+.Menu  a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.Menu  a:hover {
+    color: rgb(225, 22, 22);;
+}
+
+.Menu a.active {
+    color: darkred;
+    font-size: 22px;
+}

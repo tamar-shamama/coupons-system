@@ -1,0 +1,10 @@
+
+.SortBoxForBuyCoupon button {
+    margin: 5px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.SortBoxForBuyCoupon > div.hipus {
+    width: 500px;
+}

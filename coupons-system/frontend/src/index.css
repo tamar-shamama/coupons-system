@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  padding: 0;
+  direction: rtl;
+  
+  box-sizing: border-box;
+  border: 8px solid rgb(84, 83, 83);
+  width: 100%;
+  height: 200%;
+}
+
+div#root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+
+/* פרטים */
+
+.details {
+  font-size: 25px;
+  text-align: right;
+  margin: 0 100px 0 0;
+}
+
+.details span.pratim {
+  color: darkred;
+  font-weight: bold;
+}
+
+.details span.labl {
+  display: inline-block;
+  width: 250px;
+}
+.details > a {
+  text-decoration: none;
+  color: rgb(80, 78, 78);
+}
+.details > a:hover {
+  color: darkblue;
+}
+
+
+
+
+/* רשימת אובייקטים */
+
+
+div.reshima {
+  text-align: right;
+  font-size: 22px;
+  margin: 10px;
+  max-height: 100%;
+}
+
+.reshima > fieldset {
+  overflow: auto;
+  text-overflow: ellipsis;
+  min-width: 0;
+  height: 80vh;
+}
+
+.reshima div#koteret {
+  text-align: right;
+}
+
+.reshima div#koteret>div {
+  font-weight: bold;
+  width: 130px;
+  display: inline-block;
+  text-align: center;
+}
+.reshima div#koteret>div.space {
+  width: 30px;
+}
+
+
+
+.reshima  div {
+  text-align: right;
+}
+.reshima div>div {
+  width: 130px;
+  display: inline-block;
+  text-align: center;
+  overflow: auto;
+  /* text-overflow: ellipsis; */
+}
+.reshima div>div.space {
+  width: 30px;
+}
+.reshima div>div.kaftor {
+  width: 200px;
+}
+
+
+.reshima img {
+  height: 25px;
+}
+
+.reshima a {
+  text-decoration: none;
+}
+
+
+.reshima h3 {
+  right: 30px;
+  text-decoration: underline;
+  color: darkred;
+  font-size: 30px;
+  text-align: right;
+
+}
+
+
+
+/* בלוק חיפוש */
+div.hipus {
+	border: 2px solid black;
+  margin: 20px 20px 30px 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.hipus input {
+    width: 100px;
+    margin: 0 20px 0 30px;
+    height: 30px;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+
+.hipus  button {
+    box-sizing: border-box;
+    border: 3px solid rgb(225, 22, 22);
+    height: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: darkgray;
+}
+
+.hipus button:hover {
+    background-color: gray;
+}
+
+
+

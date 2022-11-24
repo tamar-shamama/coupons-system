@@ -1,0 +1,36 @@
+.CustomerCard {
+    background-color: hsla(0, 0%, 50%, 0.4);
+    margin-bottom: 5px;
+
+}
+
+/* div.CustomerCard {
+    text-align: right;
+    width: 100%;
+    font-size: 20px;
+}
+
+.CustomerCard img {
+    height: 25px;
+}
+
+.CustomerCard > span {
+    display: inline-block;
+    width: 18%;
+    margin-bottom: 10px;
+}
+
+
+.CustomerCard span.space {
+    width: 2%;
+} */
+
+
+/* .CustomerCard img {
+    height: 25px;
+}
+
+.CustomerCard a {
+    text-decoration: none;
+} */
+

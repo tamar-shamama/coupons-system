@@ -1,0 +1,90 @@
+.GetAllCoupons div#koteret {
+    width: 1450px;
+    text-align: right;
+}
+
+.GetAllCoupons div {
+    width: 1450px;
+    text-align: right;
+}
+
+
+
+
+/* 
+
+div.GetAllCoupons {
+    text-align: right;
+    font-size: 22px;
+    margin: 10px;
+}
+
+.GetAllCoupons > fieldset {
+    overflow: auto;
+    text-overflow: ellipsis;
+    min-width: 0;
+}
+
+
+.GetAllCoupons div#koteret>div {
+    display: inline-block;
+    font-weight: bold;
+    text-align: center;
+}
+
+.GetAllCoupons div#koteret {
+    width: 1050px;
+}
+
+.GetAllCoupons div#mispar {
+    width: 50px;
+}
+
+.GetAllCoupons div#cat {
+    width: 70px;
+}
+
+.GetAllCoupons div#shem {
+    width: 70px;
+}
+
+.GetAllCoupons div#teur {
+    width: 100px;
+}
+
+.GetAllCoupons div.kamut {
+    width: 50px;
+}
+
+.GetAllCoupons div.taarich {
+    width: 120px;
+}
+
+.GetAllCoupons div#comp {
+    width: 70px;
+}
+
+.GetAllCoupons div.space {
+    width: 30px;
+}
+
+.GetAllCoupons div#kaftor {
+    width: 50px;
+}
+
+
+.GetAllCoupons h3 {
+
+    position: sticky;
+    right: 30px;
+
+    text-decoration: underline;
+    color: darkred;
+    font-size: 30px;
+    text-align: right;
+
+}
+
+
+
+ */

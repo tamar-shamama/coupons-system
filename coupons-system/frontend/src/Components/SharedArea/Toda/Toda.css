@@ -1,0 +1,18 @@
+
+
+.Toda > a {
+    text-decoration: none;
+    color: rgb(80, 78, 78);
+    font-size: 30px;
+  }
+  .Toda > a:hover {
+    color: darkblue;
+  }
+
+
+  .Toda fieldset {
+    font-size: 25px;
+    color: darkblue;
+    width: 70%;
+    text-align: right;
+}

@@ -1,0 +1,43 @@
+.CompanyCard {
+    background-color: hsla(0, 0%, 50%, 0.4);
+    margin-bottom: 5px;
+
+}
+
+/* div.CompanyCard {
+    text-align: right;
+    width: 100%;
+    font-size: 20px;
+}
+
+.CompanyCard img {
+    height: 25px;
+}
+
+.CompanyCard > span {
+    display: inline-block;
+    width: 30%;
+    margin-bottom: 10px;
+}
+
+.CompanyCard span#mispar, .CompanyCard span#kaftor {
+    width: 17%;
+}
+
+.CompanyCard span.space {
+    width: 2%;
+} */
+
+
+/* .CompanyCard img {
+    height: 25px;
+}
+
+.CompanyCard a {
+    text-decoration: none;
+} */
+
+
+
+
+

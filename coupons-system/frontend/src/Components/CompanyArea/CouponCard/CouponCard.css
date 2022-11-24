@@ -1,0 +1,40 @@
+/* div.CouponCard {
+    text-align: right;
+    width: 100%;
+    font-size: 20px;
+}
+
+
+.CouponCard > span {
+    display: inline-block;
+    width: 11%;
+    text-align: center;
+}
+
+.CouponCard span.kamut, .CouponCard span#mispar {
+    width: 5%;
+}
+
+.CouponCard span.taarich {
+    width: 13%;
+}
+
+.CouponCard span.space {
+    width: 1.5%;
+}
+
+.CouponCard span#kaftor {
+    width: 11%;
+}
+
+
+
+.CouponCard a {
+    text-decoration: none;
+} */
+
+.CouponCard {
+    background-color: hsla(0, 0%, 50%, 0.4);
+    margin-bottom: 5px;
+
+}

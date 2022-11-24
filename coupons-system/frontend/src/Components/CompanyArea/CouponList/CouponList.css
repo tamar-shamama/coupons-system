@@ -1,0 +1,41 @@
+
+
+.CouponList h3 {
+    /* text-decoration: underline;
+    color: darkred;
+    font-size: 30px; */
+    display: inline-block;
+}
+
+.CouponList a#add {
+    margin-right: 100px;
+    padding: 5px;
+    text-decoration: none;
+    background-color: red;
+    color: black;
+    font-size: 23px;
+    font-weight: 100;
+    border: 2px solid black;
+    box-shadow: 1px 1px;
+}
+
+.CouponList a#add:hover {
+    box-shadow: 0px 0px;
+    background-color: rgb(162, 13, 13);
+}
+
+.CouponList div#koteret {
+    width: 1500px;
+    text-align: right;
+}
+
+.CouponList div.CouponCard {
+    width: 1500px;
+    text-align: right;
+}
+
+.CouponList button {
+    margin: 5px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}

@@ -1,0 +1,25 @@
+.Home p {
+    text-align: right;
+}
+
+.Home {
+    width: 80%;
+}
+
+.Home img {
+    width: 60%;
+    position: relative;
+    opacity: 0.6;
+}
+
+.Home #nof {
+    text-align: center;
+}
+
+.Home a {
+    color: red;
+}
+
+.Home p#sheela {
+    font-weight: bold;
+}

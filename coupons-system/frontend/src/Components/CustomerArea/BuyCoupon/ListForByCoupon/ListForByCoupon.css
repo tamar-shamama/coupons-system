@@ -1,0 +1,17 @@
+
+.ListForByCoupon div#koteret {
+    width: 1700px;
+    text-align: right;
+}
+
+.ListForByCoupon div.BuyCouponCard {
+    width: 1700px;
+    text-align: right;
+}
+
+.ListForByCoupon button {
+    margin: 5px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+

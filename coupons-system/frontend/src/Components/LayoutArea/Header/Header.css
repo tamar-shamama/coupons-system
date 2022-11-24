@@ -1,0 +1,20 @@
+.Header {
+
+    font-size: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px 10px 20px 10px;
+    /* text-shadow: 3px 3px rgb(84, 83, 83); */
+    text-shadow: 3px 3px black;
+	font-weight: bold;
+    color: red;
+    text-align: right;
+    margin-right: 100px;
+}
+
+.Header p {
+    margin: 0;
+}
+
+
+
+

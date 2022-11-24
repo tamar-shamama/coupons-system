@@ -1,0 +1,43 @@
+.Layout > * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.Layout {
+
+    height: 100%;
+    display: grid;
+    grid-template-rows: 15% 81% 4%;
+    grid-template-columns: 21% 79%;
+}
+
+.Layout > header {
+    grid-row: span 1;
+    grid-column: span 2;
+}
+
+.Layout > main {
+    grid-row: span 1;
+    grid-column: span 1;
+    /* overflow: auto; */
+}
+
+.Layout > aside {
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+
+.Layout > footer {
+    grid-row: span 1;
+    grid-column: span 2;
+    background-color: rgb(84, 83, 83);
+}
+
+.Layout hr {
+    border: 5px solid rgb(84, 83, 83);
+    background-color: rgb(84, 83, 83);
+}
+
+

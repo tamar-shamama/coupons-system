@@ -1,0 +1,50 @@
+div.Login {
+    width: auto;
+    margin: 50px;
+    font-size: 35px;
+}
+
+.Login h3 {
+    margin: 0 0 30px 0;
+}
+
+.Login > form {
+    background-color: rgba(128, 128, 128, 0.572);
+    text-align: right;
+    padding: 80px;
+}
+
+.Login label {
+	display: inline-block;
+    width: 250px;
+}
+
+.Login input, .Login select {
+    width: 350px;
+    height: 35px;
+    padding: 1px 2px 1px 2px;
+    border: 0;
+    margin-bottom: 10px;
+    font-size: 25px;
+    box-sizing: border-box;
+}
+
+.Login button {
+    height: 50px;
+    width: 160px;
+    margin-top: 25px;
+    margin-right: 440px;
+    font-size: 35px;
+}
+
+.Login button:hover {
+    background-color: rgb(225, 22, 22);
+    color: white;
+}
+
+.Login fieldset {
+    font-size: 25px;
+    color: darkblue;
+    width: 300px;
+}
+

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4cb49afe.css",
+    "main.js": "/static/js/main.6f75540a.js",
+    "static/js/787.37c5087b.chunk.js": "/static/js/787.37c5087b.chunk.js",
+    "static/media/vocation.jpg": "/static/media/vocation.cd207e5c93aabf44a59c.jpg",
+    "static/media/background9.jpg": "/static/media/background9.8291773925f0a4379af7.jpg",
+    "index.html": "/index.html",
+    "main.4cb49afe.css.map": "/static/css/main.4cb49afe.css.map",
+    "main.6f75540a.js.map": "/static/js/main.6f75540a.js.map",
+    "787.37c5087b.chunk.js.map": "/static/js/787.37c5087b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb49afe.css",
+    "static/js/main.6f75540a.js"
+  ]
+}
